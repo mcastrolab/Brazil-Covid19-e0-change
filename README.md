@@ -44,4 +44,3 @@ The data collected and presented is licensed under the [Creative Commons Attribu
 - __Sun Kim__: Department of Global Health and Population, Harvard TH Chan School of Public Health | ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@SunKim0710](https://twitter.com/SunKim0710) 
 - __Theresa Andrasfay__: Leonard Davis School of Gerontology, University of Southern California
 - __Noreen Goldman__: Office of Population Research and Princeton School of Public and International Affairs, Princeton University
-# Brazil-Covid19-e0-change
