@@ -1,11 +1,11 @@
 # Reduction in life expectancy in Brazil after COVID-19
 
 
-Here we provide the data and pipeline for:  **Reduction in life expectancy in Brazil after COVID-19**
+Here we provide the data and pipeline for:  [Reduction in life expectancy in Brazil after COVID-19](https://doi.org/10.1038/s41591-021-01437-z)
 
 ### Citation
 
-> Castro M C, et al. Reduction in life expectancy in Brazil after COVID-19. *In Press*.
+> Castro M.C., Gurzenda, S., Urra, C.M. et al. Reduction in life expectancy in Brazil after COVID-19. *Nat Med* (2021). https://doi.org/10.1038/s41591-021-01437-z
 
 
 ## Abstract
